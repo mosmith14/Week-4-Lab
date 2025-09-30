@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <h1> AI and Machine Learning In Cybersecurity.  </h1>
-<title> Madison's Web Page </title>
+<title>My Webpage</title>
 <html>
 <body>
 <h2> AI and machine learning is widely considered the key to effective modern cybersecurity practices. </h2>
