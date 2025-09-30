@@ -8,6 +8,6 @@
 <p> AI and machine learning in cybersecurity can help in areas such as threat detection, malware analysis, network traffic analysis, 
 and threat intelligence. This form of cybersecurity is becoming an integral part lf modern cybersecuirty practices. AI and machines 
 bring a new element to always changing technology and attacks, which is adaptability. AI is able to respond and adapt to new types of 
-threats quicker than humans. Click here <a>href-"https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/machine-learning/"</a>
+threats quicker than humans. Click <a href-"https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/machine-learning/" title = "here">
 to learn more about the ways machine learning is used in cybersecurity. </p>
 </body> 
