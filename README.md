@@ -2,7 +2,6 @@
 <html>
 <body>
 <h1> AI and Machine Learning In Cybersecurity.  </h1>
-<title>My Webpage</title>
 <h2> AI and machine learning is widely considered the key to effective modern cybersecurity practices. </h2>
 <h3> Overview </h3>
 <p> AI and machine learning in cybersecurity can help in areas such as threat detection, malware analysis, network traffic analysis, 
