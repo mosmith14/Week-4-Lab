@@ -11,5 +11,5 @@ bring a new element to always changing technology and attacks, which is adaptabi
 threats quicker than humans. Click
 <a href="https://www.crowdstrike.com/en-us/cybersecurity-101/artificial-intelligence/machine-learning/" target = "_blank"> HERE</a>
 to learn more about the ways machine learning is used in cybersecurity. </p>
-<img src="C:\Users\lsmit\pictures\AI_ML.png" alt="Importance of AI and ML in cybersecurity">
+<img src="https://www.presencesecure.com/wp-content/uploads/2023/04/The-Advantages-and-Limitations-of-Artificial-Intelligence-and-Machine-Learning-in-Cybersecurity-1024x576.png" alt="Importance of AI and ML in cybersecurity">
 </body> 
